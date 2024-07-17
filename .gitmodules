@@ -1,15 +1,15 @@
 [submodule "frontier_fs"]
 	path = frontier_fs
-	url = git@github.com:olinex/frontier_fs/.git
+	url = git@github.com:olinex/frontier_fs.git
 [submodule "frontier_fs_fuse"]
 	path = frontier_fs_fuse
-	url = git@github.com:olinex/frontier_fs_fuse/.git
+	url = git@github.com:olinex/frontier_fs_fuse.git
 [submodule "frontier_kernel"]
 	path = frontier_kernel
-	url = git@github.com:olinex/frontier_kernel/.git
+	url = git@github.com:olinex/frontier_kernel.git
 [submodule "frontier_lib"]
 	path = frontier_lib
-	url = git@github.com:olinex/frontier_lib/.git
+	url = git@github.com:olinex/frontier_lib.git
 [submodule "frontier_user"]
 	path = frontier_user
-	url = git@github.com:olinex/frontier_user/.git
+	url = git@github.com:olinex/frontier_user.git

@@ -1,0 +1,15 @@
+[submodule "frontier_fs"]
+	path = frontier_fs
+	url = ./frontier_fs/.git
+[submodule "frontier_fs_fuse"]
+	path = frontier_fs_fuse
+	url = ./frontier_fs_fuse/.git
+[submodule "frontier_kernel"]
+	path = frontier_kernel
+	url = ./frontier_kernel/.git
+[submodule "frontier_lib"]
+	path = frontier_lib
+	url = ./frontier_lib/.git
+[submodule "frontier_user"]
+	path = frontier_user
+	url = ./frontier_user/.git
